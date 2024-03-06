@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_sit.dart
+ASSET_PREFIX=sit
+BUNDLE_NAME=CarpeYom SIT
+BUNDLE_DISPLAY_NAME=CarpeYom SIT

@@ -1,0 +1,32 @@
+flavors:
+  dev:
+    app:
+      name: "CarpeYom DEV"
+    android:
+      applicationId: "com.carpeyom.app.dev"
+    ios:
+      bundleId: "com.carpeyom.app.dev"
+
+  sit:
+    app:
+      name: "CarpeYom SIT"
+    android:
+      applicationId: "com.carpeyom.app.sit"
+    ios:
+      bundleId: "com.carpeyom.app.sit"
+
+  uat:
+    app:
+      name: "CarpeYom UAT"
+    android:
+      applicationId: "com.carpeyom.app.uat"
+    ios:
+      bundleId: "com.carpeyom.app.uat"
+
+  prod:
+    app:
+      name: "CarpeYom"
+    android:
+      applicationId: "com.carpeyom.app"
+    ios:
+      bundleId: "com.carpeyom.app"
